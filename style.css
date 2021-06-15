@@ -1,7 +1,18 @@
 body {
   margin: 0;
 }
+.main {
+  position: relative;
+}
 .main .main-img {
   width: 100%;
   height: auto;
+}
+.main .zhegai1 {
+  position: absolute;
+  top: 357px;
+  right: 8px;
+  font-size: 12px;
+  color: #989898;
+  background-color: #ffffff;
 }
